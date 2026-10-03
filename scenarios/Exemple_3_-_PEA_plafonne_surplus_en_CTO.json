@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "Exemple 3 - PEA plafonne (surplus en CTO)",
+  "saved_at": "2026-10-02T13:18:34",
+  "params": {
+    "initial_capital": 20000,
+    "monthly_contribution": 1500,
+    "years": 25,
+    "annual_return_pct": 5.0,
+    "contribution_growth_pct": 0.0,
+    "annual_fees_pct": 0.0,
+    "inflation_pct": 2.0,
+    "real_terms": false,
+    "tax_regime": "pea",
+    "compare_taxes": true,
+    "income_tax_pct": 12.8,
+    "social_levy_pct": 18.6,
+    "pea_ceiling": 150000.0
+  }
+}

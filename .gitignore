@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Éditeurs et système
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Outils locaux
+.claude/
+
+# Documentation locale
+EXPLICATIONS.md
+
+# Tests (conservés en local, non publiés)
+tests/
+pytest.ini
+requirements-dev.txt
+
+# Scénarios personnels (les exemples fournis restent versionnés)
+scenarios/*
+!scenarios/Exemple_*.json

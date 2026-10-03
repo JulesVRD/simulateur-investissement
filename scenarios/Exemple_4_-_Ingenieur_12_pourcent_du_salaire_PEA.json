@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "name": "Exemple 4 - Ingenieur 12 pourcent du salaire (PEA)",
+  "saved_at": "2026-10-02T13:46:22",
+  "params": {
+    "initial_capital": 5000,
+    "monthly_contribution": 300.0,
+    "years": 35,
+    "annual_return_pct": 6.0,
+    "contribution_growth_pct": 0.0,
+    "annual_fees_pct": 0.3,
+    "inflation_pct": 2.0,
+    "real_terms": false,
+    "tax_regime": "pea",
+    "compare_taxes": false,
+    "income_tax_pct": 12.8,
+    "social_levy_pct": 18.6,
+    "pea_ceiling": 150000.0,
+    "contribution_mode": "salary",
+    "salary_monthly": 2600,
+    "salary_share_pct": 12.0,
+    "salary_profile": "engineer",
+    "salary_scenario": "mid",
+    "salary_growth_early_pct": 3.5,
+    "salary_growth_mid_pct": 3.2,
+    "salary_growth_late_pct": 2.2
+  }
+}

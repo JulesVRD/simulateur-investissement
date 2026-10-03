@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "name": "Exemple 2 - Actions monde en PEA",
+  "saved_at": "2026-10-02T12:58:39",
+  "params": {
+    "initial_capital": 10000,
+    "monthly_contribution": 300,
+    "years": 20,
+    "annual_return_pct": 7.0,
+    "contribution_growth_pct": 2.0,
+    "annual_fees_pct": 0.3,
+    "inflation_pct": 2.0,
+    "real_terms": false,
+    "tax_regime": "pea",
+    "compare_taxes": false,
+    "income_tax_pct": 12.8,
+    "social_levy_pct": 18.6
+  }
+}
